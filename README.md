@@ -1,6 +1,6 @@
-# common-balatro-mod-update-links
-A collection of links for people to quickly update their mods
+# A collection of links for people to quickly update their mods
 
+## Mods
 - Steamodded: https://github.com/Steamodded/smods/archive/refs/heads/main.zip
 - Cryptid: https://github.com/MathIsFun0/Cryptid/archive/refs/heads/main.zip
 - Talisman: https://github.com/MathIsFun0/Talisman/archive/refs/heads/main.zip
@@ -13,7 +13,7 @@ A collection of links for people to quickly update their mods
 - SDM_0 Stuff: https://github.com/SDM0/SDM_0-s-Stuff/archive/refs/heads/main.zip
 - DebugPlus: https://github.com/WilsontheWolf/DebugPlus/archive/refs/heads/master.zip
 
-# Lovely 0.7.1:
+## Lovely 0.7.1
   - Windows: https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.7.1/lovely-x86_64-pc-windows-msvc.zip
   - Mac(Arm): https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.7.1/lovely-aarch64-apple-darwin.tar.gz
   - Mac(x86): https://github.com/ethangreen-dev/lovely-injector/releases/download/v0.7.1/lovely-x86_64-apple-darwin.tar.gz
