@@ -10,3 +10,4 @@ A collection of links for people to quickly update their mods
 - Cartomancer: https://github.com/stupxd/Cartomancer/archive/refs/heads/main.zip
 - Card Sleeves: https://github.com/larswijn/CardSleeves/archive/refs/heads/main.zip
 - JensBalatroCollection: https://github.com/jenwalter666/JensBalatroCollection/archive/refs/heads/main.zip
+- SDM_0 Stuff: https://github.com/SDM0/SDM_0-s-Stuff/archive/refs/heads/main.zip
