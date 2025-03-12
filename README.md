@@ -10,6 +10,9 @@
 
 ## Quality of life mods
 
+### [DebugPlus](https://github.com/WilsontheWolf/DebugPlus/archive/refs/heads/master.zip)
+- *TBA*
+
 ### [Handy](https://github.com/SleepyG11/HandyBalatro/archive/refs/heads/main.zip) *recommended*
 - Adds many useful hotkeys
 
