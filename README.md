@@ -52,7 +52,7 @@
 ### SDM_0's Stuff
 - [Direct Download](https://github.com/SDM0/SDM_0-s-Stuff/archive/refs/heads/main.zip)
 - [Repository](https://github.com/SDM0/SDM_0-s-Stuff)
-- *Description TBA*
+- A Balatro mod that adds (as of now) 37 Jokers, 3 Consumables, 9 Decks and 5 Challenges to the game, made by SDM_0
 
 ### Betmma's Mod Collection
 - [Direct Download](https://github.com/betmma/my_balatro_mods/archive/refs/heads/main.zip)
