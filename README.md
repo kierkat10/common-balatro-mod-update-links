@@ -45,7 +45,7 @@
 ### Card Sleeves
 - [Direct Download](https://github.com/larswijn/CardSleeves/archive/refs/heads/main.zip)
 - [Repository](https://github.com/larswijn/CardSleeves)
-- *Description TBA*
+- Adds Sleeves for your decks that add more to the vanilla experience
 
 ## Content Mods
 
