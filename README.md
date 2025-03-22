@@ -52,6 +52,16 @@
 - [Repository](https://github.com/nh6574/JokerDisplay)
 - Balatro mod that displays information such as modifiers or relevant hands, ranks, or suits under Jokers
 
+### Too Many Jokers
+- [Direct Download](https://github.com/cg-223/toomanyjokers/archive/refs/heads/main.zip)
+- [Repository](https://github.com/cg-223/toomanyjokers)
+- Adds a UI allowing for searching of cards
+
+### Flush Hotkeys
+- [Direct Download](https://github.com/Agoraaa/FlushHotkeys/archive/refs/heads/main.zip)
+- [Repository](https://github.com/Agoraaa/FlushHotkeys)
+- Adds a few hotkeys to easily select poker hands of certain types
+
 ## Content Mods
 
 ### SDM_0's Stuff
@@ -82,3 +92,8 @@ Note: May be buggy on newer versions of Steamodded.
 - [Direct Download](https://github.com/GauntletGames-2086/Flower-Pot/archive/refs/heads/main.zip)
 - [Repository](https://github.com/GauntletGames-2086/Flower-Pot)
 - Greatly improves the display and collection of player stats
+
+### Malverk
+- [Direct Download](https://github.com/Eremel/Malverk/archive/refs/heads/main.zip)
+- [Repository](https://github.com/Eremel/Malverk)
+- A Balatro mod that handles texture packs
